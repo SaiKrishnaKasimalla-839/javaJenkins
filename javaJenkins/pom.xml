@@ -96,7 +96,7 @@
 							<annotationProcessorPaths>
 								<path>
 									<groupId>org.projectlombok</groupId>
-									<artifactId>lombok</artifactId>
+								<artifactId>lombok</artifactId>
 								</path>
 							</annotationProcessorPaths>
 						</configuration>
